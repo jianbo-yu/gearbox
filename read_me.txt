@@ -3,7 +3,7 @@
   The sampling frequency in the experiment is 20000Hz,
   The experimental data is measured at three speeds of motor inverter at 10Hz, 20Hz, and 30Hz, respectively. The corresponding speed of the motor is 294/588/882 r/min.
   The data of the .txt files are named from 1.txt to 30.txt, the data length in each .txt file is 65536, Fs=20000Hz
-  There are 16  Gearbox conditions: 
+  The Gearbox conditions are below: 
 	Normal, 
 	Worn tooth (level1-8), 
 	Pitting tooth, 
