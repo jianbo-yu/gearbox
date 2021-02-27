@@ -14,5 +14,5 @@
 	Outter race defect of bearing with 1 defect
 	Outter race defect of bearing with 2 defects
   The files are named accordingly.
-  It should be noticed that the condition of the Worn tooth are partly choosed for validations because near worn level(e.g worn level1 and worn level 2) have similary data distributions.
+  It should be noticed that the condition of the Worn tooth should be carefully choosed for validations because near worn levels(e.g worn level1 and worn level 2) have similary data distributions.
 
